@@ -1,0 +1,25 @@
+selector {property; values;}
+
+
+
+.softblue{
+    background-color: aliceblue;
+}
+.skyblue{
+    background-color: skyblue;
+}
+.ygreen{
+    background-color: yellowgreen;
+}
+.dpink{
+    background-color: deeppink;
+}
+.cyan{
+    background-color: cyan;
+}
+.ored{
+    background-color: orangered;
+}
+.textalign{
+    text-align: center;
+}
